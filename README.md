@@ -227,17 +227,17 @@ Press following keys to operate:
 | key | Description            |
 | --- | ---------------------- |
 | q   | quit                   |
-| a   | thumb bends by step    |
-| z   | thumb relaxes by step  |
-| s   | index bends by step    |
-| x   | index relaxes by step  |
-| d   | middle bends by step   |
-| c   | middle relaxes by step |
-| f   | ring bends by step     |
-| v   | ring relaxes by step   |
-| g   | little bends by step   |
-| b   | little relaxes by step |
-| h   | thumb rotation +step   |
-| n   | thumb rotation -step   |
+| z   | thumb bends by step    |
+| a   | thumb relaxes by step  |
+| x   | index bends by step    |
+| s   | index relaxes by step  |
+| c   | middle bends by step   |
+| d   | middle relaxes by step |
+| v   | ring bends by step     |
+| f   | ring relaxes by step   |
+| b   | little bends by step   |
+| g   | little relaxes by step |
+| n   | thumb rotation +step   |
+| h   | thumb rotation -step   |
 
 Step is range / 10.
